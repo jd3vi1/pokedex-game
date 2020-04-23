@@ -1,0 +1,19 @@
+.Pokecard{
+    width: 300px;
+    height: fit-content;
+    /* border: 2px solid black; */
+    margin: 1rem;
+    padding: 5px;
+    box-shadow: 7px 10px 12px -5px rgba(0, 0, 0, 0.56);
+    border-radius: 5px;
+    text-align: center;
+    background: #F5FBEF;  /* fallback for old browsers */
+}
+
+.Pokecard-title{
+    font-size: 100%;
+}
+
+.Pokecard-data{
+    font-size: 80%;
+}
